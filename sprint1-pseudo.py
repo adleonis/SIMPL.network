@@ -14,7 +14,7 @@
     - create the chain(name, mining difficulty, ...)
     - create the asset
     - set the miners activity
-    - set the 
+    - set the users activity 
 
 4. Create Variables file which holds all script variables  (thursday/friday)
 
